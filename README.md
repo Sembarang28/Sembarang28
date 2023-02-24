@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sembarang28
+- 👋 Hi, I’m Agil Fikriawan
 - 👀 I’m interested in Back-End
-- 🌱 I’m currently learning Full-Stack Web Development
+- 🌱 I’m currently learning Cloud Computing in Bangkit
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
