@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Agil Fikriawan
-- 👀 I’m interested in Back-End
-- 🌱 I’m currently learning Cloud Computing in Bangkit
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Back-End and Cloud Computing
+- 🌱 I’m currently learning Cloud Computing in Bangkit Academy
 
 <!---
 Sembarang28/Sembarang28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
